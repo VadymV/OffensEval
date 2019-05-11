@@ -6,6 +6,7 @@
 
 1. Please download FastText Embeddings: <https://s3-us-west-1.amazonaws.com/fasttext-vectors/crawl-300d-2M.vec.zip> 
 and extract it to the project folder.
+2. Download the data and extract it to the project folder.
 2. Install all required packages: `pip3 install -r requirements.txt`. It is recommended to use a virtual environment.
 3. The project folder should contain:
     - 'training-v1' directory
