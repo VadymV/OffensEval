@@ -12,4 +12,4 @@ and extract it to the project folder.
     - 'training-v1' directory
     - 'model_output' directory
 4. Tensorboard can be run by executing the command `tensorboard --logdir ./model_output/`
-5. Run `model.py`
+5. Run `Model.py`
