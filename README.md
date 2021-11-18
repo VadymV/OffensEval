@@ -13,3 +13,5 @@ and extract it to the project folder.
     - 'model_output' directory
 4. Tensorboard can be run by executing the command `tensorboard --logdir ./model_output/`
 5. Run `Model.py`
+
+See also `Paper.pdf` for more details
