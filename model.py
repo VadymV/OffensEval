@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-A model, which classifies tweets into two categories.
+A model that classifies tweets into two categories.
 
 @author vadym.gryshchuk vadym.gryshchuk@protonmail.com
 """
