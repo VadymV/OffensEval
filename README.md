@@ -2,9 +2,7 @@
 ## Identification of offensive language
 
 #### Please visit <https://competitions.codalab.org/competitions/20011#learn_the_details-overview> for further information
-#### The results were presented in the paper SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval) which can be found at <https://arxiv.org/abs/1903.08983>. See the team 'Vadym' for the results that can be achieved. 
-
-Place: 10 out of 800.
+#### The results were presented in the paper SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval) which can be found at <https://arxiv.org/abs/1903.08983>. Place: 10 out of 800. See the team 'Vadym' for details. 
 
 1. Please download FastText Embeddings: <https://s3-us-west-1.amazonaws.com/fasttext-vectors/crawl-300d-2M.vec.zip> 
 and extract it to the project folder.
