@@ -6,8 +6,8 @@ def shuffle_batch(X, y, batch_size):
     Create batches.
     :param X: Features
     :param y: Labels
-    :param batch_size:
-    :return:
+    :param batch_size: Batch size
+    :return: features and labels
     """
     rnd_idx = np.random.permutation(len(X))
     n_batches = len(X) // batch_size
